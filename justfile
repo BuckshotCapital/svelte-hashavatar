@@ -1,2 +1,2 @@
 publish:
-  pnpm publish --access=restricted --report-summary
+  pnpm publish --access=public --report-summary
